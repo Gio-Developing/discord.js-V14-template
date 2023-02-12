@@ -4,5 +4,23 @@
     "better-sqlite3": "^8.0.1",
     "discord.js": "^14.7.1",
     "quick.db": "^9.0.8"
-  }
+  },
+  "name": "discord.js-v14-template",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gio-Developing/discord.js-V14-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gio-Developing/discord.js-V14-template/issues"
+  },
+  "homepage": "https://github.com/Gio-Developing/discord.js-V14-template#readme"
 }
